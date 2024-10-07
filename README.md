@@ -1,7 +1,7 @@
 # ICICI-BANK
 2.00.000 transfer Amount 
-A/C 4449991585
-IFSC CODE :- KKBK0005891
+A/C :- 110030863560
+IFSC CODE :- CNRB0005534
 Transaction Successful  
 Received From 
 Romince Akalgamiya
