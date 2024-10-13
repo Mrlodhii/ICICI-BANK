@@ -5,3 +5,9 @@ IFSC CODE :- CNRB0005534
 Transaction Successful  
 Received From 
 Romince Akalgamiya
+
+
+  5.00.000 transfer Amount  
+  Transaction Successful  
+Received From 
+  @Mr_Lodhi__
