@@ -7,8 +7,10 @@ Received From
 Romince Akalgamiya
 
 
-A/c No. 857730010103750 IFSC Code ICIC0003454 
-Your Payment cancelled in 4.00.000/- rupees
-A/c No. 345405001111 IFSC Code ICIC0003454
+A/c No. 857730010103750 IFSC Code UBIN0550736
 Your Payment cancelled in 4.00.000/- rupees 
 Payment due to your email being wrong Canceled it
+
+A/c No. 345405001111 IFSC Code ICIC0003454
+Your Payment successfully completed in 4.00.000/- rupees 
+
