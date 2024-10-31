@@ -7,7 +7,7 @@ Received From
 Romince Akalgamiya
 
 
-  5.00.000 transfer Amount  
-  Transaction Successful  
-Received From 
-  @Mr_Lodhi__
+A/c No. 857730010103750 IFSC Code ICIC0003454 
+Your Payment cancelled in 4.00.000/- rupees
+A/c No. 345405001111 IFSC Code ICIC0003454
+Your Payment cancelled in 4.00.000/- rupees 
