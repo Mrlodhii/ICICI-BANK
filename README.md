@@ -5,9 +5,9 @@ A/C :- 110030863560
 IFSC CODE :- CNRB0005534
 Transaction Successful  
 Received From 
-Romince Akalgamiya
+yogendra Nagpure 
 
-Transfer Amount For Amazon 4.51.999/- Rupees 
+Transfer Amount For Amazon 51.999/- Rupees 
 
 
 A/c No. 857730010103750 IFSC Code UBIN0550736
