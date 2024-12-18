@@ -7,7 +7,7 @@ Transaction Successful
 Received From 
 Romince Akalgamiya
 
-Transfer Amount For Amazon 2.51.999/- Rupees 
+Transfer Amount For Amazon 4.51.999/- Rupees 
 
 
 A/c No. 857730010103750 IFSC Code UBIN0550736
@@ -15,5 +15,5 @@ Your Payment Cancelled In 4.00.000/- Rupees
 Payment Due To Your Email Being Wrong Canceled It
 
 A/c No. 345405001111 IFSC Code ICIC0003454
-Your Payment Successfully Completed In 10.00.000/- Rupees 
+Your Payment Successfully Completed In 20.00.000/- Rupees 
 
